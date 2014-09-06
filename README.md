@@ -1,4 +1,1 @@
-1ik415-tp222ff-laborationer
-===========================
-
-Laborationer i kursenerna c# och Webbteknisk Introduktion
+Truls Perssons repository för Inledande kurser i c# och Webbteknik
